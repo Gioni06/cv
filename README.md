@@ -155,7 +155,7 @@ Advanced technical college certificate
 [https://oygo.com/]: https://oygo.com/
 [https://www.metro-cc.com/]: https://www.metro-cc.com/
 [building a landing page with webpack 4]: https://medium.com/@jonas_duri/build-a-landing-page-with-webpack-4-6efe83deb7fe
-[e-mail]: jonas.duri@gmail.com
+[e-mail]: mailto:jonas.duri@gmail.com
 [medium]: https://medium.com/@jonas_duri
 [twitter]: https://twitter.com/jonas_duri
 [linkedin]: https://www.linkedin.com/in/jonas-duri-4259283b/
