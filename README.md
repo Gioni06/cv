@@ -4,6 +4,7 @@
 
 **40215 Düsseldorf, NRW, Germany**
 
+[PDF Download] &emsp;
 [E-Mail] &emsp;
 [Medium] &emsp;
 [Twitter] &emsp;
@@ -155,6 +156,7 @@ Advanced technical college certificate
 [https://oygo.com/]: https://oygo.com/
 [https://www.metro-cc.com/]: https://www.metro-cc.com/
 [building a landing page with webpack 4]: https://medium.com/@jonas_duri/build-a-landing-page-with-webpack-4-6efe83deb7fe
+[pdf download]: https://github.com/Gioni06/cv/raw/master/cv.pdf
 [e-mail]: mailto:jonas.duri@gmail.com
 [medium]: https://medium.com/@jonas_duri
 [twitter]: https://twitter.com/jonas_duri
