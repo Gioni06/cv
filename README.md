@@ -10,11 +10,10 @@
 [LinkedIn] &emsp;
 [Github] &emsp;
 [Dribbble] &emsp;
-[jduri.xyz] &emsp;
 
 I am a senior frontend developer at Boxine GmbH in Duesseldorf, Germany. I bring ideas to life from wireframe sketches to functional prototypes to polished features. With a background in sales and expert web frontend development skills I helped to build products for corporations, e-commerce startups, digital agencies and various client during my freelance career. I am a strong believer in the MVP approach with quick iterations, early testing and continuous shipping.
 
-Occasionally I write about web development. I only published one article in the recent past. I hope to find the time to bring more ideas to paper in the future. If you are interested you can check out my [website](https://jduri.xyz).
+Occasionally I write about web development. I only published one article in the recent past. I hope to find the time to bring more ideas to paper in the future.
 
 - [Building A Landing Page With Webpack 4]
 
@@ -159,6 +158,5 @@ Advanced technical college certificate
 [medium]: https://medium.com/@jonas_duri
 [twitter]: https://twitter.com/jonas_duri
 [linkedin]: https://www.linkedin.com/in/jonas-duri-4259283b/
-[jduri.xyz]: https://jduri.xyz/
 [github]: https://github.com/Gioni06
 [dribbble]: https://dribbble.com/jonas_duri
