@@ -13,10 +13,11 @@
 
 I am a senior frontend developer at Boxine GmbH in Duesseldorf, Germany. I bring ideas to life from wireframe sketches to functional prototypes to polished features. With a background in sales and expert web frontend development skills I helped to build products for corporations, e-commerce startups, digital agencies and various client during my freelance career. I am a strong believer in the MVP approach with quick iterations, early testing and continuous shipping.
 
-Occasionally I write about web development. I only published two articles in the recent past. I hope to find the time to bring more ideas to paper in the future.
+Occasionally I write about web development. I only published three articles in the recent past. I hope to find the time to bring more ideas to paper in the future.
 
-- [Building A Landing Page With Webpack 4]
+- [Fewer bugs and better software in 30 days]
 - [Use “prefers-color-scheme” to detect macOS dark mode with CSS and Javascript]
+- [Building A Landing Page With Webpack 4]
 
 ---
 
@@ -156,6 +157,7 @@ Advanced technical college certificate
 [https://www.metro-cc.com/]: https://www.metro-cc.com/
 [building a landing page with webpack 4]: https://jduri.xyz/blog/build-a-landing-page-with-webpack-4/
 [Use “prefers-color-scheme” to detect macOS dark mode with CSS and Javascript]: https://medium.com/@jonas_duri/enable-dark-mode-with-css-variables-and-javascript-today-66cedd3d7845
+[Fewer bugs and better software in 30 days]: https://medium.com/@jonas_duri/fewer-bugs-and-better-software-in-30-days-bce780ce10
 [e-mail]: mailto:jonas.duri@gmail.com
 [medium]: https://medium.com/@jonas_duri
 [twitter]: https://twitter.com/jonas_duri
