@@ -15,7 +15,6 @@ I am a senior frontend developer at Boxine GmbH in Duesseldorf, Germany. I bring
 
 Occasionally I write about web development. I only published three articles in the recent past. I hope to find the time to bring more ideas to paper in the future.
 
-- [Fewer bugs and better software in 30 days]
 - [Use “prefers-color-scheme” to detect macOS dark mode with CSS and Javascript]
 - [Building A Landing Page With Webpack 4]
 
