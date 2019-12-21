@@ -53,7 +53,13 @@ Occasionally I write about web development. I only published three articles in t
 
 ## Work Experience
 
-### Senior Frontend Developer &emsp; <small>April 2018- current</small>
+### Software Developer &emsp; <small>September 2019- current</small>
+
+**E. Breuninger GmbH | [https://breuninger.com]**
+
+Working on an experimental digital fashion product called "Be Personal" that brings the in-store quality of service with real human interactions to the online world.
+
+### Senior Frontend Developer &emsp; <small>April 2018- September 2019</small>
 
 **Boxine GmbH | [https://tonies.com]**
 
