@@ -40,13 +40,15 @@ Occasionally I write about web development. I only published three articles in t
 
 ## Technologies
 
-- `JavaScript`, `TypeScript`, `Nodejs`
+- `JavaScript`, `TypeScript`, `Kotlin`, `Nodejs`
 - `Babel and other transpilers`, `Webpack`, `Rollup`, `Parceljs`, `Gulp`, `Grunt`
 - `Jest`, `Mocha`, `Jasmine`, `Puppeteer`, `Karma`, `Plain old "assert"`
 - `HTML 5`, `Single Page Applications`, `Browser APIs`, `Sass`, `less`, `stylus`, `css custom properties`
 - `Webcomponents`, `React`, `Angular`, `Serverless Framework`, `Expressjs`, `Hapijs`
 - `Redux State Management`, `Observable Pattern`, `Finite State Machines for UI Components`, `Server side rendering (SSR) with React and Angular`, `Internationalization`
 - `AWS Lambda`, `Google Cloud Functions`
+- `Apache Kafka (Basics)`
+- `Terraform`
 - `Gitlab CI`, `Circle Ci`
 - `Gitlab`, `Github`, `AWS`, `Google Cloud`, `Netlify`, `Artifactory`, `Jira`, `Confluence`, `Launch Darkly (Feature Flag and A/B Testing)`, `Contentful (Headless Content Management)`
 
