@@ -58,6 +58,12 @@ Occasionally I write about web development. I only published three articles in t
 
 Working on an experimental digital fashion product called "Be Personal" that brings the in-store quality of service with real human interactions to the online world.
 
+### University lecturer &emsp; <small>September 2019- August 2020</small>
+
+**Hochschule Düsseldorf (HSD) | [https://hs-duesseldorf.de/]**
+
+As a freelance lecturer I have given a course that teaches students the basics of modern web development.
+
 ### Senior Frontend Developer &emsp; <small>April 2018- September 2019</small>
 
 **Boxine GmbH | [https://tonies.com]**
