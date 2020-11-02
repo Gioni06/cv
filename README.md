@@ -30,6 +30,7 @@ Occasionally I write about web development. I only published three articles in t
 - **Javascript** _(95% of my daily business)_
 - Typescript
 - PHP
+- Kotlin
 - HTML
 - CSS
 
@@ -37,6 +38,7 @@ Occasionally I write about web development. I only published three articles in t
 
 - Python
 - Rust
+- Go
 
 ## Technologies
 
