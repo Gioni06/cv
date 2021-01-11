@@ -11,7 +11,7 @@
 [Github] &emsp;
 [Dribbble] &emsp;
 
-I am a senior frontend developer at Boxine GmbH in Duesseldorf, Germany. I bring ideas to life from wireframe sketches to functional prototypes to polished features. With a background in sales and expert web frontend development skills I helped to build products for corporations, e-commerce startups, digital agencies and various client during my freelance career. I am a strong believer in the MVP approach with quick iterations, early testing and continuous shipping.
+I am a senior frontend developer with E. Breuninger GmbH & Co. I bring ideas to life from wireframe sketches to functional prototypes to polished features. With a background in sales and expert web frontend development skills I helped to build products for corporations, e-commerce startups, digital agencies and various client during my freelance career. I am a strong believer in the MVP approach with quick iterations, early testing and continuous shipping.
 
 Occasionally I write about web development. I only published three articles in the recent past. I hope to find the time to bring more ideas to paper in the future.
 
@@ -46,7 +46,7 @@ Occasionally I write about web development. I only published three articles in t
 - `Babel and other transpilers`, `Webpack`, `Rollup`, `Parceljs`, `Gulp`, `Grunt`
 - `Jest`, `Mocha`, `Jasmine`, `Puppeteer`, `Karma`, `Plain old "assert"`
 - `HTML 5`, `Single Page Applications`, `Browser APIs`, `Sass`, `less`, `stylus`, `css custom properties`
-- `Webcomponents`, `React`, `Angular`, `Serverless Framework`, `Expressjs`, `Hapijs`
+- `Webcomponents`, `React`, `Angular`, `Vuejs`, `Serverless Framework`, `Expressjs`, `Hapijs`
 - `Redux State Management`, `Observable Pattern`, `Finite State Machines for UI Components`, `Server side rendering (SSR) with React and Angular`, `Internationalization`
 - `AWS Lambda`, `Google Cloud Functions`
 - `Apache Kafka (Basics)`
