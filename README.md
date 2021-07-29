@@ -1,6 +1,6 @@
 ## Jonas Duri
 
-## Senior Frontend Developer
+## Senior Software Engineer
 
 **40215 Düsseldorf, NRW, Germany**
 
@@ -11,12 +11,25 @@
 [Github] &emsp;
 [Dribbble] &emsp;
 
-I am a senior frontend developer with E. Breuninger GmbH & Co. I bring ideas to life from wireframe sketches to functional prototypes to polished features. With a background in sales and expert web frontend development skills I helped to build products for corporations, e-commerce startups, digital agencies and various client during my freelance career. I am a strong believer in the MVP approach with quick iterations, early testing and continuous shipping.
+👋 Hi, I'm Jonas. Thank's for coming by.
 
-Occasionally I write about web development. I only published three articles in the recent past. I hope to find the time to bring more ideas to paper in the future.
+I'm a senior software engineer with a strong focus on modern front-end development and architecture. I'm with Northern Data AG to help with scaling our engineering team and create a custom-tailored solution to manage our data center operations across the globe.
 
-- [Use “prefers-color-scheme” to detect macOS dark mode with CSS and Javascript]
-- [Building A Landing Page With Webpack 4]
+I care deeply about software engineering culture and practices that help teams build better products. Currently, I'm learning a lot about Domain-Driven Design and hexagonal software architectures.
+
+If you know books, talks, or resources that you can recommend, just [drop me a line](mailto:jonas.duri@gmail.com). These are some of the books that greatly influence my work.
+
+- Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization <small>by Dave Logan, John King, Halee Fischer-Wright</small>
+- No Rules Rules <small>by Reed Hastings, Erin Meyer</small>
+- Inspired: How to Create Tech Products Customers Love <small>by Marty Cagan</small>
+- Think Again: The Power of Knowing What You Don't Know <small>by Adam Grant</small>
+- Clean Code: A Handbook of Agile Software Craftsmanship <small>by Robert C. Martin</small>
+- Phoenix Project: A Novel about It, Devops, and Helping Your Business Win <small>Gene Kim</small>
+
+Sometimes I find the time to write down some thoughts on Medium.
+
+- [Use “prefers-color-scheme” to detect macOS dark mode with CSS and Javascript] (old, but still cool)
+- [Building A Landing Page With Webpack 4] (Outdated by now, don't quote me on this)
 
 ---
 
@@ -27,40 +40,45 @@ Occasionally I write about web development. I only published three articles in t
 
 ## Programming Languages
 
-- **Javascript** _(95% of my daily business)_
-- Typescript
+- **Javascript** 
+- **Typescript**
+- Kotlin,
+- Java
+- Golang
 - PHP
-- Kotlin
 - HTML
 - CSS
 
-## Hobby Programming Languages
-
-- Python
-- Rust
-- Go
-
 ## Technologies
 
-- `JavaScript`, `TypeScript`, `Kotlin`, `Nodejs`
-- `Babel and other transpilers`, `Webpack`, `Rollup`, `Parceljs`, `Gulp`, `Grunt`
+- `JavaScript`, `TypeScript`, `Kotlin`, `Java`, `Golang` `Nodejs`
+- `Babel and other transpilers`, `Webpack`, `Rollup`, `Parceljs`, `ESBuild`, `Gulp`, `Grunt`
 - `Jest`, `Mocha`, `Jasmine`, `Puppeteer`, `Karma`, `Plain old "assert"`
 - `HTML 5`, `Single Page Applications`, `Browser APIs`, `Sass`, `less`, `stylus`, `css custom properties`
-- `Webcomponents`, `React`, `Angular`, `Vuejs`, `Serverless Framework`, `Expressjs`, `Hapijs`
+- `Webcomponents`, `React`, `Angular`, `Vuejs`, `Serverless Framework`, `Expressjs`, `Hapi`, `Nest.js`
 - `Redux State Management`, `Observable Pattern`, `Finite State Machines for UI Components`, `Server side rendering (SSR) with React and Angular`, `Internationalization`
 - `AWS Lambda`, `Google Cloud Functions`
 - `Apache Kafka (Basics)`
 - `Terraform`
 - `Gitlab CI`, `Circle Ci`
-- `Gitlab`, `Github`, `AWS`, `Google Cloud`, `Netlify`, `Artifactory`, `Jira`, `Confluence`, `Launch Darkly (Feature Flag and A/B Testing)`, `Contentful (Headless Content Management)`
+- `Gitlab`, `Github`, `AWS`, `Google Cloud`, `Netlify`, `Vercel`, `Artifactory`, `Jira`, `Confluence`, `Launch Darkly (Feature Flag and A/B Testing)`, `Contentful (Headless Content Management)`
 
 ## Work Experience
 
-### Software Developer &emsp; <small>September 2019- current</small>
+### Northern Data Software GmbH &emsp; <small>June 2021 - current</small>
+
+**Northern Data Software GmbH | [https://northerndata.de]**
+
+I'm helping a team to create a custom-tailored solution to manage our data center operations across the globe. 
+
+
+### Software Developer &emsp; <small>September 2019- June 2021</small>
 
 **E. Breuninger GmbH | [https://breuninger.com]**
 
-Working on an experimental digital fashion product called "Be Personal" that brings the in-store quality of service with real human interactions to the online world.
+I worked on an experimental digital fashion product called "Be Personal" that brings the in-store quality of service with real human interactions to the online world. 
+
+Also, I created a CSS framework, that implements Breuninger's Corporate Identity. This project is of strategic importance to be able to remove legacy dependencies and enable new development initiatives in terms of front-end technologies.
 
 ### University lecturer &emsp; <small>September 2019- August 2020</small>
 
@@ -72,7 +90,7 @@ As a freelance lecturer I have given a course that teaches students the basics o
 
 **Boxine GmbH | [https://tonies.com]**
 
-While transitioning from an external service provider to an internal development team I helped our Head of Cloud Development to build a strong development team and successfully migrate the previous Python (Django) application to a REST API Backend and a React Frontend. We rewrote the existing application to use modern Javascript technologies like _React_ and _styled-components_. A development preview is available at https://meine.qa.tonie.cloud.
+While transitioning from an external service provider to an internal development team I helped our Head of Cloud Development to build a strong development team and successfully migrate the previous Python (Django) application to a REST API Backend and a React Frontend. We rewrote the existing application to use modern Javascript technologies like _React_ and _styled-components_. Check out https://my.tonies.com/
 
 - Evaluate technologies and its potential strategic impact.
 - Conduct interviews with developers.
@@ -110,7 +128,7 @@ Building the game to web application for Ubisoft’s AAA title “For Honor” w
 
 **Mapudo GmbH | [https://mapudo.com]**
 
-I helped to create Mapudo’s ecommerce platform for digital steel trading. In close collaboration with stakeholders and product owners I helped to develop the platform from MVP to release.
+I helped to create Mapudo’s e-commerce platform for digital steel trading. In close collaboration with stakeholders and product owners I helped to develop the platform from MVP to release.
 
 - Implementing the front-end application using JavaScript, TypeScript and the AngularJS framework.
 - Writing unit test for the AngularJS application
@@ -165,6 +183,10 @@ Wholesale and foreign trade
 
 Advanced technical college certificate
 
+[https://breuninger.com]: https://breuninger.com
+[https://hs-duesseldorf.de/]: https://hs-duesseldorf.de/
+[https://northerndata.de]: https://northerndata.de
+[https://tonies.com]: https://tonies.com
 [https://stepstone.com]: https://stepstone.com
 [https://ubisoft.com]: https://ubisoft.com
 [https://mapudo.com]: https://mapudo.com
@@ -172,7 +194,6 @@ Advanced technical college certificate
 [https://www.metro-cc.com/]: https://www.metro-cc.com/
 [building a landing page with webpack 4]: https://jduri.xyz/blog/build-a-landing-page-with-webpack-4/
 [Use “prefers-color-scheme” to detect macOS dark mode with CSS and Javascript]: https://medium.com/@jonas_duri/enable-dark-mode-with-css-variables-and-javascript-today-66cedd3d7845
-[Fewer bugs and better software in 30 days]: https://medium.com/@jonas_duri/fewer-bugs-and-better-software-in-30-days-bce780ce10
 [e-mail]: mailto:jonas.duri@gmail.com
 [medium]: https://medium.com/@jonas_duri
 [twitter]: https://twitter.com/jonas_duri
