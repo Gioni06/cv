@@ -11,7 +11,7 @@
 [Github] &emsp;
 [Dribbble] &emsp;
 
-👋 Hi, I'm Jonas. Thank's for coming by.
+👋 Hi, I'm Jonas. Thanks for coming by.
 
 I'm a senior software engineer with a strong focus on modern front-end development and architecture. I'm with Northern Data AG to help with scaling our engineering team and create a custom-tailored solution to manage our data center operations across the globe.
 
